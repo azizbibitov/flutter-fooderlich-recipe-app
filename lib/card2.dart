@@ -8,6 +8,7 @@ class Card2 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Center(
+
       // 1
       child: Container(
         constraints: const BoxConstraints.expand(
